@@ -1,4 +1,4 @@
-<div align="Center">
+ <div align="Center">
 <h1>avail-light</h1>
 <h3> Light client for the Avail blockchain</h3>
 </div>
